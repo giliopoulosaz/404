@@ -32,3 +32,9 @@ a:hover, a:active {
   background-color: black;
   color: white;
 }
+
+.george {
+  text-align: right;
+  font-style: normal;
+  font-size: 20px;
+}
