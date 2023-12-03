@@ -6,7 +6,6 @@ body {
   font-weight: bolder;
   font-style: italic;
   margin-top: 200px;
-  position: relative;
 }
 
 img {
@@ -16,7 +15,6 @@ img {
 
 .bottom {
   font-size: 35px;
-  position: relative;
 }
 
 a:link, a:visited {
@@ -39,5 +37,4 @@ a:hover, a:active {
   text-align: right;
   font-style: normal;
   font-size: 20px;
-  position: relative;
 }
